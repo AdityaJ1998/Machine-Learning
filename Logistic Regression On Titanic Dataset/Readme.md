@@ -11,3 +11,5 @@ The features in the dataset are:</br>
 * fare : Passenger fare	
 * cabin : Cabin number	
 * embarked : Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+
+The accuracy achieved was 77.033%.
