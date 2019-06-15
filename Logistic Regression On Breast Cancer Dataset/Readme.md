@@ -14,4 +14,4 @@
   * symmetry
   * fractal dimension (“coastline approximation” - 1)
   
-  ### The accuracy achieved was 94.73%. ###
+  ### The accuracy achieved was 95.95%. ###
