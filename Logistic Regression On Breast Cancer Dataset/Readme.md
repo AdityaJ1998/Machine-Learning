@@ -13,3 +13,5 @@
   * concave points (number of concave portions of the contour)
   * symmetry
   * fractal dimension (“coastline approximation” - 1)
+  
+  ### The accuracy achieved was 95.95%. ###
